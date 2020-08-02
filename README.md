@@ -1,4 +1,4 @@
-# OBF
+# OBF - Bioinformatics
 
 I was one of the participants for the round 17 of Outreachy wherein I chose to contribute to project Open Bioinformatics Foundation. The Open Bioinformatics Foundation (OBF) was founded in 2001 to provide community and infrastructure support for open-source bioinformatics software projects. While primary community activity centers around the yearly Bioinformatics Open Source Conference (BOSC) meeting, we would like to transform the OBF to a year-round community hub for open biology/bioinformatics science. You can read more about it at https://www.open-bio.org/
 
